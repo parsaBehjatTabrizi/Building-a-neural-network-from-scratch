@@ -197,6 +197,6 @@ MIT License - feel free to use this code for learning and experimentation!
 
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **Email**: behjattabrizi.sp@gmail.com
 
-**⭐ Star this repo if you found it helpful for learning neural networks from scratch!**
+
